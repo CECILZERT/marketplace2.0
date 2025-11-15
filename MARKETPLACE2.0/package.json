@@ -9,7 +9,7 @@
     "axios": "^1.5.0"
   },
   "devDependencies": {
-    "tailwindcss": "^3.5.0",
+    "tailwindcss": "",
     "postcss": "^8.4.0",
     "autoprefixer": "^10.4.0"
   },
